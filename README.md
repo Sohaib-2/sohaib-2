@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Sohaib Maqsood
+# 👋 Hi there, I'm Sohaib Maqsood 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohaib-maqsood-3b0136292/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohaibmaqsood.se@gmail.com)
 
@@ -33,4 +33,4 @@ Feel free to reach out for collaborations or just a chat:
 - 📧 [Email](mailto:sohaibmaqsood.se@gmail.com)
 ---
 
-⭐️ From [Sohaib-2](https://github.com/sohaib-2)
+![Profile Views](https://komarev.com/ghpvc/?username=sohaib-2)
