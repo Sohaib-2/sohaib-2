@@ -4,20 +4,20 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohaibmaqsood.se@gmail.com)
 
 ## 🚀 About Me
-Software Engineer with a passion for building innovative solutions that make a difference. I love creating elegant, efficient code and diving into new technologies.
-- 💼 Full-Stack Software Engineer
-- 🚀 Architected scalable cloud solutions across AWS, Azure, and GCP
-- 💪 Led and delivered **20+** diverse technical projects
-- 🤖 Love automating things and building tools that save time
-- ⚡ **Fun fact:** I can solve a Rubik's cube in under 2 minutes!
+Software engineer based in Manchester, UK.
+- 💼 Junior Developer at an AI infrastructure company, working across databases, backend development and Linux
+- 🛠️ Previously a software engineer at Bitbash, building full-stack web apps, automation tools and cloud deployments
+- 🎓 MSc Cyber Security at Manchester Metropolitan University (2025–26). My dissertation studied how a backdoor can spread through knowledge distillation, and how to detect it from the teacher model's outputs
+- 🔐 Interested in AI security, which I explore in my spare time, and in doing research in it in the longer term
 
 ## 💻 Tech Stack
 ```
-Frontend:    React, JavaScript & Modern Web Technologies
-Backend:     Python, Node.js, Java & RESTful Services
-Cloud:       AWS, Azure, GCP & DevOps
-Databases:   SQL, NoSQL & Data Management
-Automation:  Web Scraping, Mobile & Browser Automation
+Languages:   Python, SQL, C, C++, Bash, JavaScript/TypeScript, Java
+Databases:   PostgreSQL, MySQL, MongoDB, Redis
+Backend:     FastAPI, Django, Node.js, REST APIs
+Frontend:    React, Next.js, Tailwind CSS
+DevOps:      Docker, AWS, GitHub Actions, Linux, Git
+ML:          PyTorch
 ```
 
 <!-- Commenting for now
@@ -25,9 +25,6 @@ Automation:  Web Scraping, Mobile & Browser Automation
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohaib-2&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohaib-2&layout=compact&theme=tokyonight)
 -->
-
-## 🌱 Current Focus
-Always learning and exploring new technologies to expand my skillset and create better solutions.
 
 ## 📫 Let's Connect!
 Feel free to reach out for collaborations or just a chat:
